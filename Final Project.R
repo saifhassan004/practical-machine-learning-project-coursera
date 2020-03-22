@@ -1,7 +1,7 @@
 ###
 title: "Final Project"
-author: "David N. Cohron"
-date: "Janauary 12, 2017"
+author: "Saif Hassan"
+date: "22nd March, 2020"
 ###
 
 
@@ -97,10 +97,8 @@ confusionMatrix(predGBM, validating$classe)$overall
 confusionMatrix(predLDA, validating$classe)$overall
 confusionMatrix(combPred, validating$classe)$overall
 
-
 #  plot random forest model
 plot(modFitRF$finalModel, uniform=TRUE, main="Classsification Tree")
-
 
 # plot random forest
 library(partykit)
