@@ -1,2 +1,3 @@
-# practical-machine-learning-project-coursera
-Practical Machine Learning Project on Coursera by JHU
+# practical-machine-learning-coursera-by-John-Hopkins-University
+Practical Machine Learning Project on Coursera
+Author: Saif Hassan
